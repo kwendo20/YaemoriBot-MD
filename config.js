@@ -14,7 +14,7 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-['573106909511', '🚩 𝙰𝙸 𝚈𝙰𝙴𝙼𝙾𝚁𝙸', true],
+['254717407351', '🚩 𝙰𝙸 𝚈𝙰𝙴𝙼𝙾𝚁𝙸', true],
 ['573012482597', '👑 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 👑', true],
 ['50558124470'],
 ['573218138672'],
@@ -26,7 +26,7 @@ global.prems = []
 global.mods = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packname = '⪛✰ 𝐀𝐢 𝐘𝐚𝐞𝐦𝐨𝐫𝐢 - 𝐌𝐃 ✰⪜'
+global.packname = '⪛✰ Wagwano ✰⪜'
 global.author = '𝖮𝖿𝖼.𝖣𝗂𝖾𝗀𝗈 👑'
 global.wm = '𝗬𝗮𝗲𝗺𝗼𝗿𝗶 𝗕𝗼𝘁 - 𝗠𝗗 🌻'
 global.titulowm = '𝗔𝗶 𝗬𝗮𝗲𝗺𝗼𝗿𝗶 - 𝗠𝗗 🍓'
